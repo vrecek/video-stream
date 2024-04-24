@@ -1,4 +1,6 @@
 .env
-output.mp4
 detected/
 __pycache__/
+merged.mp4
+output.mp4
+output.wav
